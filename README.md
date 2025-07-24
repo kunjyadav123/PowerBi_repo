@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard Project
+# 📊 Power BI Fundamentabls 
 
 ## 📝 Overview
 This repository contains a Power BI dashboard  built to demonstrate my proficiency in data cleaning, transformation, and interactive visual analytics. 
